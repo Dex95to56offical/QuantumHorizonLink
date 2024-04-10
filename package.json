@@ -1,0 +1,14 @@
+{
+  "name": "quantumhorizonlink",
+  "version": "1.0.0",
+  "description": "The API handler for QHL a Moderation tool made by QHDS for in-game moderation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
